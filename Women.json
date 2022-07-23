@@ -441,33 +441,6 @@
       "strikedoffprice": 1799,
       "category":"Women",
       "brand":"AMPM"
-    },
-    {
-      "id":5,
-      "image_url":
-        "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010834611-Black-BLACK-1000010834611-15122021_01-2100.jpg",
-      "name": "MAX Checked Band Collar Straight Kurta",
-      "price": 1399,
-      "color":"Black",
-      "rating":"★★",
-      "size":"XXL",
-      "strikedoffprice": 2799,
-      "category":"Women",
-      "brand":"MAANYAVAR"    
-    },
-    
-    {
-      "id":6,
-      "image_url":
-        "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010766541-Pink-LIGHTPINK-1000010766541-15122021_01-2100.jpg",
-      "name": "MAX Printed Band Collar Straight Kurta",
-      "price": 1099,
-      "color":"Blue",
-      "rating":"★★★★★",
-      "size":"XXL",
-      "strikedoffprice": 1249,
-      "category":"Women",
-      "brand":"GLOBAL DESI"    
     }
     
 ]
