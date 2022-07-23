@@ -208,7 +208,7 @@
 
   {
     "id":16,
-    "image_url":" https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000011273514-Multicolour-M-1000011273514-18042022_01-2100.jpg",
+    "image_url":" https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010397448-Black-Black-1000010397448-10132021_01-2100.jpg",
     "name": "MAX Textured Black Straight Top",
     "price": 699,
     "color":"Pink",
@@ -333,8 +333,8 @@
   
   {
     "id":25,
-    "image_url":" https://lmsin.net/cdn-cgi/image/h=1125,w=1125,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010637430-Multicolour-M-1000010637430-8272021_01-2100.jpg",
-    "name": "MAX Printed Round Neck A-Line Top",
+    "image_url":"https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010834611-Black-BLACK-1000010834611-15122021_01-2100.jpg",
+    "name": "MAX Printed Round Neck A-Line Top ",
     "price": 899,
     "color":"Black",
     "rating":"★★",
@@ -356,5 +356,18 @@
     "strikedoffprice": 1899,
     "category":"Girls",
     "brand":"RAW MANGO"
-  }
+  },
+ {
+      "id":0,
+      "image_url":
+        "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/max/1000010855903-Orange-RUST-1000010855903-12012022_01-2100.jpg",
+      "name": "MAX Embroidered Straight Kurta",
+      "price": 1549,
+      "color":"Red",
+      "rating":"★★★",
+      "size":"L",
+      "strikedoffprice": 1799,
+      "category":"Women",
+      "brand":"GLOBAL DESI"
+    }
 ]
